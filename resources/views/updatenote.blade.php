@@ -26,7 +26,7 @@
                 </div>
                 <div class="my-4 col-12 text-center">
                     <button type="submit" class="btn btn-warning text-black fw-bold">Update Note</button>
-                    <button type="submit" class="btn btn-warning text-black fw-bold m-auto pe-auto">Clear</button>
+                    <button type="button" class="btn btn-warning text-black fw-bold m-auto pe-auto" onclick="clearField();">Clear</button>
                 </div>
             </form>
         </div>
